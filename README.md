@@ -1,1 +1,1 @@
-plateforme
+plateforme de calcul
